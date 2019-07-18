@@ -1,0 +1,17 @@
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\obj\Debug\netcoreapp2.2\RomanNumerals.Test.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\obj\Debug\netcoreapp2.2\RomanNumerals.Test.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\obj\Debug\netcoreapp2.2\RomanNumerals.Test.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\obj\Debug\netcoreapp2.2\RomanNumerals.Test.AssemblyInfo.cs
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\bin\Debug\netcoreapp2.2\RomanNumerals.Test.deps.json
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\bin\Debug\netcoreapp2.2\RomanNumerals.Test.runtimeconfig.json
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\bin\Debug\netcoreapp2.2\RomanNumerals.Test.runtimeconfig.dev.json
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\bin\Debug\netcoreapp2.2\RomanNumerals.Test.dll
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\bin\Debug\netcoreapp2.2\RomanNumerals.Test.pdb
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\bin\Debug\netcoreapp2.2\RomanNumerals.dll
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\bin\Debug\netcoreapp2.2\RomanNumerals.pdb
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\obj\Debug\netcoreapp2.2\RomanNumerals.Test.csproj.CopyComplete
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\obj\Debug\netcoreapp2.2\RomanNumerals.Test.dll
+C:\Users\peter\source\repos\katas\PeterKatas\RomanNumerals\RomanNumerals.Test\obj\Debug\netcoreapp2.2\RomanNumerals.Test.pdb
